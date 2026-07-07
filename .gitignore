@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Large generated artifacts
+outputs/videos/
+outputs/frames/
+outputs/vlm_answers/
+outputs/scores/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# API keys / secrets
+.env
+*.key
+secrets/
+credentials/
+
+# Logs
+logs/
+*.log
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/

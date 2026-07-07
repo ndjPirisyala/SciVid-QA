@@ -1,0 +1,385 @@
+{
+  "source_frame_manifest": "outputs/frames/frame_manifest.json",
+  "records": [
+    {
+      "condition_id": "directT2V",
+      "prompt_id": "water_molecule_01",
+      "contact_sheet_path": "outputs/contact_sheets/directT2V/water_molecule_01.jpg",
+      "source_frames": [
+        "outputs/frames/directT2V/water_molecule_01/frame_00000.jpg",
+        "outputs/frames/directT2V/water_molecule_01/frame_00007.jpg",
+        "outputs/frames/directT2V/water_molecule_01/frame_00015.jpg",
+        "outputs/frames/directT2V/water_molecule_01/frame_00022.jpg",
+        "outputs/frames/directT2V/water_molecule_01/frame_00029.jpg",
+        "outputs/frames/directT2V/water_molecule_01/frame_00036.jpg",
+        "outputs/frames/directT2V/water_molecule_01/frame_00044.jpg",
+        "outputs/frames/directT2V/water_molecule_01/frame_00051.jpg",
+        "outputs/frames/directT2V/water_molecule_01/frame_00058.jpg",
+        "outputs/frames/directT2V/water_molecule_01/frame_00065.jpg",
+        "outputs/frames/directT2V/water_molecule_01/frame_00073.jpg",
+        "outputs/frames/directT2V/water_molecule_01/frame_00080.jpg"
+      ]
+    },
+    {
+      "condition_id": "directT2V",
+      "prompt_id": "dna_double_helix_01",
+      "contact_sheet_path": "outputs/contact_sheets/directT2V/dna_double_helix_01.jpg",
+      "source_frames": [
+        "outputs/frames/directT2V/dna_double_helix_01/frame_00000.jpg",
+        "outputs/frames/directT2V/dna_double_helix_01/frame_00007.jpg",
+        "outputs/frames/directT2V/dna_double_helix_01/frame_00015.jpg",
+        "outputs/frames/directT2V/dna_double_helix_01/frame_00022.jpg",
+        "outputs/frames/directT2V/dna_double_helix_01/frame_00029.jpg",
+        "outputs/frames/directT2V/dna_double_helix_01/frame_00036.jpg",
+        "outputs/frames/directT2V/dna_double_helix_01/frame_00044.jpg",
+        "outputs/frames/directT2V/dna_double_helix_01/frame_00051.jpg",
+        "outputs/frames/directT2V/dna_double_helix_01/frame_00058.jpg",
+        "outputs/frames/directT2V/dna_double_helix_01/frame_00065.jpg",
+        "outputs/frames/directT2V/dna_double_helix_01/frame_00073.jpg",
+        "outputs/frames/directT2V/dna_double_helix_01/frame_00080.jpg"
+      ]
+    },
+    {
+      "condition_id": "directT2V",
+      "prompt_id": "cell_membrane_01",
+      "contact_sheet_path": "outputs/contact_sheets/directT2V/cell_membrane_01.jpg",
+      "source_frames": [
+        "outputs/frames/directT2V/cell_membrane_01/frame_00000.jpg",
+        "outputs/frames/directT2V/cell_membrane_01/frame_00007.jpg",
+        "outputs/frames/directT2V/cell_membrane_01/frame_00015.jpg",
+        "outputs/frames/directT2V/cell_membrane_01/frame_00022.jpg",
+        "outputs/frames/directT2V/cell_membrane_01/frame_00029.jpg",
+        "outputs/frames/directT2V/cell_membrane_01/frame_00036.jpg",
+        "outputs/frames/directT2V/cell_membrane_01/frame_00044.jpg",
+        "outputs/frames/directT2V/cell_membrane_01/frame_00051.jpg",
+        "outputs/frames/directT2V/cell_membrane_01/frame_00058.jpg",
+        "outputs/frames/directT2V/cell_membrane_01/frame_00065.jpg",
+        "outputs/frames/directT2V/cell_membrane_01/frame_00073.jpg",
+        "outputs/frames/directT2V/cell_membrane_01/frame_00080.jpg"
+      ]
+    },
+    {
+      "condition_id": "directT2V",
+      "prompt_id": "atom_electrons_01",
+      "contact_sheet_path": "outputs/contact_sheets/directT2V/atom_electrons_01.jpg",
+      "source_frames": [
+        "outputs/frames/directT2V/atom_electrons_01/frame_00000.jpg",
+        "outputs/frames/directT2V/atom_electrons_01/frame_00007.jpg",
+        "outputs/frames/directT2V/atom_electrons_01/frame_00015.jpg",
+        "outputs/frames/directT2V/atom_electrons_01/frame_00022.jpg",
+        "outputs/frames/directT2V/atom_electrons_01/frame_00029.jpg",
+        "outputs/frames/directT2V/atom_electrons_01/frame_00036.jpg",
+        "outputs/frames/directT2V/atom_electrons_01/frame_00044.jpg",
+        "outputs/frames/directT2V/atom_electrons_01/frame_00051.jpg",
+        "outputs/frames/directT2V/atom_electrons_01/frame_00058.jpg",
+        "outputs/frames/directT2V/atom_electrons_01/frame_00065.jpg",
+        "outputs/frames/directT2V/atom_electrons_01/frame_00073.jpg",
+        "outputs/frames/directT2V/atom_electrons_01/frame_00080.jpg"
+      ]
+    },
+    {
+      "condition_id": "directT2V",
+      "prompt_id": "mitosis_01",
+      "contact_sheet_path": "outputs/contact_sheets/directT2V/mitosis_01.jpg",
+      "source_frames": [
+        "outputs/frames/directT2V/mitosis_01/frame_00000.jpg",
+        "outputs/frames/directT2V/mitosis_01/frame_00007.jpg",
+        "outputs/frames/directT2V/mitosis_01/frame_00015.jpg",
+        "outputs/frames/directT2V/mitosis_01/frame_00022.jpg",
+        "outputs/frames/directT2V/mitosis_01/frame_00029.jpg",
+        "outputs/frames/directT2V/mitosis_01/frame_00036.jpg",
+        "outputs/frames/directT2V/mitosis_01/frame_00044.jpg",
+        "outputs/frames/directT2V/mitosis_01/frame_00051.jpg",
+        "outputs/frames/directT2V/mitosis_01/frame_00058.jpg",
+        "outputs/frames/directT2V/mitosis_01/frame_00065.jpg",
+        "outputs/frames/directT2V/mitosis_01/frame_00073.jpg",
+        "outputs/frames/directT2V/mitosis_01/frame_00080.jpg"
+      ]
+    },
+    {
+      "condition_id": "directT2V",
+      "prompt_id": "neuron_signal_01",
+      "contact_sheet_path": "outputs/contact_sheets/directT2V/neuron_signal_01.jpg",
+      "source_frames": [
+        "outputs/frames/directT2V/neuron_signal_01/frame_00000.jpg",
+        "outputs/frames/directT2V/neuron_signal_01/frame_00007.jpg",
+        "outputs/frames/directT2V/neuron_signal_01/frame_00015.jpg",
+        "outputs/frames/directT2V/neuron_signal_01/frame_00022.jpg",
+        "outputs/frames/directT2V/neuron_signal_01/frame_00029.jpg",
+        "outputs/frames/directT2V/neuron_signal_01/frame_00036.jpg",
+        "outputs/frames/directT2V/neuron_signal_01/frame_00044.jpg",
+        "outputs/frames/directT2V/neuron_signal_01/frame_00051.jpg",
+        "outputs/frames/directT2V/neuron_signal_01/frame_00058.jpg",
+        "outputs/frames/directT2V/neuron_signal_01/frame_00065.jpg",
+        "outputs/frames/directT2V/neuron_signal_01/frame_00073.jpg",
+        "outputs/frames/directT2V/neuron_signal_01/frame_00080.jpg"
+      ]
+    },
+    {
+      "condition_id": "directT2V",
+      "prompt_id": "protein_folding_01",
+      "contact_sheet_path": "outputs/contact_sheets/directT2V/protein_folding_01.jpg",
+      "source_frames": [
+        "outputs/frames/directT2V/protein_folding_01/frame_00000.jpg",
+        "outputs/frames/directT2V/protein_folding_01/frame_00007.jpg",
+        "outputs/frames/directT2V/protein_folding_01/frame_00015.jpg",
+        "outputs/frames/directT2V/protein_folding_01/frame_00022.jpg",
+        "outputs/frames/directT2V/protein_folding_01/frame_00029.jpg",
+        "outputs/frames/directT2V/protein_folding_01/frame_00036.jpg",
+        "outputs/frames/directT2V/protein_folding_01/frame_00044.jpg",
+        "outputs/frames/directT2V/protein_folding_01/frame_00051.jpg",
+        "outputs/frames/directT2V/protein_folding_01/frame_00058.jpg",
+        "outputs/frames/directT2V/protein_folding_01/frame_00065.jpg",
+        "outputs/frames/directT2V/protein_folding_01/frame_00073.jpg",
+        "outputs/frames/directT2V/protein_folding_01/frame_00080.jpg"
+      ]
+    },
+    {
+      "condition_id": "directT2V",
+      "prompt_id": "blood_cells_flow_01",
+      "contact_sheet_path": "outputs/contact_sheets/directT2V/blood_cells_flow_01.jpg",
+      "source_frames": [
+        "outputs/frames/directT2V/blood_cells_flow_01/frame_00000.jpg",
+        "outputs/frames/directT2V/blood_cells_flow_01/frame_00007.jpg",
+        "outputs/frames/directT2V/blood_cells_flow_01/frame_00015.jpg",
+        "outputs/frames/directT2V/blood_cells_flow_01/frame_00022.jpg",
+        "outputs/frames/directT2V/blood_cells_flow_01/frame_00029.jpg",
+        "outputs/frames/directT2V/blood_cells_flow_01/frame_00036.jpg",
+        "outputs/frames/directT2V/blood_cells_flow_01/frame_00044.jpg",
+        "outputs/frames/directT2V/blood_cells_flow_01/frame_00051.jpg",
+        "outputs/frames/directT2V/blood_cells_flow_01/frame_00058.jpg",
+        "outputs/frames/directT2V/blood_cells_flow_01/frame_00065.jpg",
+        "outputs/frames/directT2V/blood_cells_flow_01/frame_00073.jpg",
+        "outputs/frames/directT2V/blood_cells_flow_01/frame_00080.jpg"
+      ]
+    },
+    {
+      "condition_id": "directT2V",
+      "prompt_id": "solar_system_01",
+      "contact_sheet_path": "outputs/contact_sheets/directT2V/solar_system_01.jpg",
+      "source_frames": [
+        "outputs/frames/directT2V/solar_system_01/frame_00000.jpg",
+        "outputs/frames/directT2V/solar_system_01/frame_00007.jpg",
+        "outputs/frames/directT2V/solar_system_01/frame_00015.jpg",
+        "outputs/frames/directT2V/solar_system_01/frame_00022.jpg",
+        "outputs/frames/directT2V/solar_system_01/frame_00029.jpg",
+        "outputs/frames/directT2V/solar_system_01/frame_00036.jpg",
+        "outputs/frames/directT2V/solar_system_01/frame_00044.jpg",
+        "outputs/frames/directT2V/solar_system_01/frame_00051.jpg",
+        "outputs/frames/directT2V/solar_system_01/frame_00058.jpg",
+        "outputs/frames/directT2V/solar_system_01/frame_00065.jpg",
+        "outputs/frames/directT2V/solar_system_01/frame_00073.jpg",
+        "outputs/frames/directT2V/solar_system_01/frame_00080.jpg"
+      ]
+    },
+    {
+      "condition_id": "directT2V",
+      "prompt_id": "photosynthesis_01",
+      "contact_sheet_path": "outputs/contact_sheets/directT2V/photosynthesis_01.jpg",
+      "source_frames": [
+        "outputs/frames/directT2V/photosynthesis_01/frame_00000.jpg",
+        "outputs/frames/directT2V/photosynthesis_01/frame_00007.jpg",
+        "outputs/frames/directT2V/photosynthesis_01/frame_00015.jpg",
+        "outputs/frames/directT2V/photosynthesis_01/frame_00022.jpg",
+        "outputs/frames/directT2V/photosynthesis_01/frame_00029.jpg",
+        "outputs/frames/directT2V/photosynthesis_01/frame_00036.jpg",
+        "outputs/frames/directT2V/photosynthesis_01/frame_00044.jpg",
+        "outputs/frames/directT2V/photosynthesis_01/frame_00051.jpg",
+        "outputs/frames/directT2V/photosynthesis_01/frame_00058.jpg",
+        "outputs/frames/directT2V/photosynthesis_01/frame_00065.jpg",
+        "outputs/frames/directT2V/photosynthesis_01/frame_00073.jpg",
+        "outputs/frames/directT2V/photosynthesis_01/frame_00080.jpg"
+      ]
+    },
+    {
+      "condition_id": "interpolated",
+      "prompt_id": "water_molecule_01",
+      "contact_sheet_path": "outputs/contact_sheets/interpolated/water_molecule_01.jpg",
+      "source_frames": [
+        "outputs/frames/interpolated/water_molecule_01/frame_00000.jpg",
+        "outputs/frames/interpolated/water_molecule_01/frame_00007.jpg",
+        "outputs/frames/interpolated/water_molecule_01/frame_00014.jpg",
+        "outputs/frames/interpolated/water_molecule_01/frame_00021.jpg",
+        "outputs/frames/interpolated/water_molecule_01/frame_00028.jpg",
+        "outputs/frames/interpolated/water_molecule_01/frame_00035.jpg",
+        "outputs/frames/interpolated/water_molecule_01/frame_00041.jpg",
+        "outputs/frames/interpolated/water_molecule_01/frame_00048.jpg",
+        "outputs/frames/interpolated/water_molecule_01/frame_00055.jpg",
+        "outputs/frames/interpolated/water_molecule_01/frame_00062.jpg",
+        "outputs/frames/interpolated/water_molecule_01/frame_00069.jpg",
+        "outputs/frames/interpolated/water_molecule_01/frame_00076.jpg"
+      ]
+    },
+    {
+      "condition_id": "interpolated",
+      "prompt_id": "dna_double_helix_01",
+      "contact_sheet_path": "outputs/contact_sheets/interpolated/dna_double_helix_01.jpg",
+      "source_frames": [
+        "outputs/frames/interpolated/dna_double_helix_01/frame_00000.jpg",
+        "outputs/frames/interpolated/dna_double_helix_01/frame_00007.jpg",
+        "outputs/frames/interpolated/dna_double_helix_01/frame_00014.jpg",
+        "outputs/frames/interpolated/dna_double_helix_01/frame_00021.jpg",
+        "outputs/frames/interpolated/dna_double_helix_01/frame_00028.jpg",
+        "outputs/frames/interpolated/dna_double_helix_01/frame_00035.jpg",
+        "outputs/frames/interpolated/dna_double_helix_01/frame_00041.jpg",
+        "outputs/frames/interpolated/dna_double_helix_01/frame_00048.jpg",
+        "outputs/frames/interpolated/dna_double_helix_01/frame_00055.jpg",
+        "outputs/frames/interpolated/dna_double_helix_01/frame_00062.jpg",
+        "outputs/frames/interpolated/dna_double_helix_01/frame_00069.jpg",
+        "outputs/frames/interpolated/dna_double_helix_01/frame_00076.jpg"
+      ]
+    },
+    {
+      "condition_id": "interpolated",
+      "prompt_id": "cell_membrane_01",
+      "contact_sheet_path": "outputs/contact_sheets/interpolated/cell_membrane_01.jpg",
+      "source_frames": [
+        "outputs/frames/interpolated/cell_membrane_01/frame_00000.jpg",
+        "outputs/frames/interpolated/cell_membrane_01/frame_00007.jpg",
+        "outputs/frames/interpolated/cell_membrane_01/frame_00014.jpg",
+        "outputs/frames/interpolated/cell_membrane_01/frame_00021.jpg",
+        "outputs/frames/interpolated/cell_membrane_01/frame_00028.jpg",
+        "outputs/frames/interpolated/cell_membrane_01/frame_00035.jpg",
+        "outputs/frames/interpolated/cell_membrane_01/frame_00041.jpg",
+        "outputs/frames/interpolated/cell_membrane_01/frame_00048.jpg",
+        "outputs/frames/interpolated/cell_membrane_01/frame_00055.jpg",
+        "outputs/frames/interpolated/cell_membrane_01/frame_00062.jpg",
+        "outputs/frames/interpolated/cell_membrane_01/frame_00069.jpg",
+        "outputs/frames/interpolated/cell_membrane_01/frame_00076.jpg"
+      ]
+    },
+    {
+      "condition_id": "interpolated",
+      "prompt_id": "atom_electrons_01",
+      "contact_sheet_path": "outputs/contact_sheets/interpolated/atom_electrons_01.jpg",
+      "source_frames": [
+        "outputs/frames/interpolated/atom_electrons_01/frame_00000.jpg",
+        "outputs/frames/interpolated/atom_electrons_01/frame_00007.jpg",
+        "outputs/frames/interpolated/atom_electrons_01/frame_00014.jpg",
+        "outputs/frames/interpolated/atom_electrons_01/frame_00021.jpg",
+        "outputs/frames/interpolated/atom_electrons_01/frame_00028.jpg",
+        "outputs/frames/interpolated/atom_electrons_01/frame_00035.jpg",
+        "outputs/frames/interpolated/atom_electrons_01/frame_00041.jpg",
+        "outputs/frames/interpolated/atom_electrons_01/frame_00048.jpg",
+        "outputs/frames/interpolated/atom_electrons_01/frame_00055.jpg",
+        "outputs/frames/interpolated/atom_electrons_01/frame_00062.jpg",
+        "outputs/frames/interpolated/atom_electrons_01/frame_00069.jpg",
+        "outputs/frames/interpolated/atom_electrons_01/frame_00076.jpg"
+      ]
+    },
+    {
+      "condition_id": "interpolated",
+      "prompt_id": "mitosis_01",
+      "contact_sheet_path": "outputs/contact_sheets/interpolated/mitosis_01.jpg",
+      "source_frames": [
+        "outputs/frames/interpolated/mitosis_01/frame_00000.jpg",
+        "outputs/frames/interpolated/mitosis_01/frame_00007.jpg",
+        "outputs/frames/interpolated/mitosis_01/frame_00014.jpg",
+        "outputs/frames/interpolated/mitosis_01/frame_00021.jpg",
+        "outputs/frames/interpolated/mitosis_01/frame_00028.jpg",
+        "outputs/frames/interpolated/mitosis_01/frame_00035.jpg",
+        "outputs/frames/interpolated/mitosis_01/frame_00041.jpg",
+        "outputs/frames/interpolated/mitosis_01/frame_00048.jpg",
+        "outputs/frames/interpolated/mitosis_01/frame_00055.jpg",
+        "outputs/frames/interpolated/mitosis_01/frame_00062.jpg",
+        "outputs/frames/interpolated/mitosis_01/frame_00069.jpg",
+        "outputs/frames/interpolated/mitosis_01/frame_00076.jpg"
+      ]
+    },
+    {
+      "condition_id": "interpolated",
+      "prompt_id": "neuron_signal_01",
+      "contact_sheet_path": "outputs/contact_sheets/interpolated/neuron_signal_01.jpg",
+      "source_frames": [
+        "outputs/frames/interpolated/neuron_signal_01/frame_00000.jpg",
+        "outputs/frames/interpolated/neuron_signal_01/frame_00007.jpg",
+        "outputs/frames/interpolated/neuron_signal_01/frame_00014.jpg",
+        "outputs/frames/interpolated/neuron_signal_01/frame_00021.jpg",
+        "outputs/frames/interpolated/neuron_signal_01/frame_00028.jpg",
+        "outputs/frames/interpolated/neuron_signal_01/frame_00035.jpg",
+        "outputs/frames/interpolated/neuron_signal_01/frame_00041.jpg",
+        "outputs/frames/interpolated/neuron_signal_01/frame_00048.jpg",
+        "outputs/frames/interpolated/neuron_signal_01/frame_00055.jpg",
+        "outputs/frames/interpolated/neuron_signal_01/frame_00062.jpg",
+        "outputs/frames/interpolated/neuron_signal_01/frame_00069.jpg",
+        "outputs/frames/interpolated/neuron_signal_01/frame_00076.jpg"
+      ]
+    },
+    {
+      "condition_id": "interpolated",
+      "prompt_id": "protein_folding_01",
+      "contact_sheet_path": "outputs/contact_sheets/interpolated/protein_folding_01.jpg",
+      "source_frames": [
+        "outputs/frames/interpolated/protein_folding_01/frame_00000.jpg",
+        "outputs/frames/interpolated/protein_folding_01/frame_00007.jpg",
+        "outputs/frames/interpolated/protein_folding_01/frame_00014.jpg",
+        "outputs/frames/interpolated/protein_folding_01/frame_00021.jpg",
+        "outputs/frames/interpolated/protein_folding_01/frame_00028.jpg",
+        "outputs/frames/interpolated/protein_folding_01/frame_00035.jpg",
+        "outputs/frames/interpolated/protein_folding_01/frame_00041.jpg",
+        "outputs/frames/interpolated/protein_folding_01/frame_00048.jpg",
+        "outputs/frames/interpolated/protein_folding_01/frame_00055.jpg",
+        "outputs/frames/interpolated/protein_folding_01/frame_00062.jpg",
+        "outputs/frames/interpolated/protein_folding_01/frame_00069.jpg",
+        "outputs/frames/interpolated/protein_folding_01/frame_00076.jpg"
+      ]
+    },
+    {
+      "condition_id": "interpolated",
+      "prompt_id": "blood_cells_flow_01",
+      "contact_sheet_path": "outputs/contact_sheets/interpolated/blood_cells_flow_01.jpg",
+      "source_frames": [
+        "outputs/frames/interpolated/blood_cells_flow_01/frame_00000.jpg",
+        "outputs/frames/interpolated/blood_cells_flow_01/frame_00007.jpg",
+        "outputs/frames/interpolated/blood_cells_flow_01/frame_00014.jpg",
+        "outputs/frames/interpolated/blood_cells_flow_01/frame_00021.jpg",
+        "outputs/frames/interpolated/blood_cells_flow_01/frame_00028.jpg",
+        "outputs/frames/interpolated/blood_cells_flow_01/frame_00035.jpg",
+        "outputs/frames/interpolated/blood_cells_flow_01/frame_00041.jpg",
+        "outputs/frames/interpolated/blood_cells_flow_01/frame_00048.jpg",
+        "outputs/frames/interpolated/blood_cells_flow_01/frame_00055.jpg",
+        "outputs/frames/interpolated/blood_cells_flow_01/frame_00062.jpg",
+        "outputs/frames/interpolated/blood_cells_flow_01/frame_00069.jpg",
+        "outputs/frames/interpolated/blood_cells_flow_01/frame_00076.jpg"
+      ]
+    },
+    {
+      "condition_id": "interpolated",
+      "prompt_id": "solar_system_01",
+      "contact_sheet_path": "outputs/contact_sheets/interpolated/solar_system_01.jpg",
+      "source_frames": [
+        "outputs/frames/interpolated/solar_system_01/frame_00000.jpg",
+        "outputs/frames/interpolated/solar_system_01/frame_00007.jpg",
+        "outputs/frames/interpolated/solar_system_01/frame_00014.jpg",
+        "outputs/frames/interpolated/solar_system_01/frame_00021.jpg",
+        "outputs/frames/interpolated/solar_system_01/frame_00028.jpg",
+        "outputs/frames/interpolated/solar_system_01/frame_00035.jpg",
+        "outputs/frames/interpolated/solar_system_01/frame_00041.jpg",
+        "outputs/frames/interpolated/solar_system_01/frame_00048.jpg",
+        "outputs/frames/interpolated/solar_system_01/frame_00055.jpg",
+        "outputs/frames/interpolated/solar_system_01/frame_00062.jpg",
+        "outputs/frames/interpolated/solar_system_01/frame_00069.jpg",
+        "outputs/frames/interpolated/solar_system_01/frame_00076.jpg"
+      ]
+    },
+    {
+      "condition_id": "interpolated",
+      "prompt_id": "photosynthesis_01",
+      "contact_sheet_path": "outputs/contact_sheets/interpolated/photosynthesis_01.jpg",
+      "source_frames": [
+        "outputs/frames/interpolated/photosynthesis_01/frame_00000.jpg",
+        "outputs/frames/interpolated/photosynthesis_01/frame_00007.jpg",
+        "outputs/frames/interpolated/photosynthesis_01/frame_00014.jpg",
+        "outputs/frames/interpolated/photosynthesis_01/frame_00021.jpg",
+        "outputs/frames/interpolated/photosynthesis_01/frame_00028.jpg",
+        "outputs/frames/interpolated/photosynthesis_01/frame_00035.jpg",
+        "outputs/frames/interpolated/photosynthesis_01/frame_00041.jpg",
+        "outputs/frames/interpolated/photosynthesis_01/frame_00048.jpg",
+        "outputs/frames/interpolated/photosynthesis_01/frame_00055.jpg",
+        "outputs/frames/interpolated/photosynthesis_01/frame_00062.jpg",
+        "outputs/frames/interpolated/photosynthesis_01/frame_00069.jpg",
+        "outputs/frames/interpolated/photosynthesis_01/frame_00076.jpg"
+      ]
+    }
+  ]
+}

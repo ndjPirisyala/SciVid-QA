@@ -1,0 +1,57 @@
+{
+  "suite_name": "dev_10_science_prompts",
+  "split": "dev",
+  "description": "Initial 10 scientific video prompts used for debugging and pilot evaluation.",
+  "prompts": [
+    {
+      "id": "water_molecule_01",
+      "category": "molecular_structure",
+      "prompt": "A realistic scientific visualization of a single water molecule rotating slowly, with one oxygen atom and two hydrogen atoms clearly visible, connected at a bent molecular angle."
+    },
+    {
+      "id": "dna_double_helix_01",
+      "category": "molecular_biology",
+      "prompt": "A clear educational animation of a DNA double helix rotating slowly, with paired bases visible and two continuous strands spiraling consistently."
+    },
+    {
+      "id": "cell_membrane_01",
+      "category": "cell_biology",
+      "prompt": "A microscope-style scientific video of a cell membrane showing a phospholipid bilayer, with embedded proteins and stable membrane structure."
+    },
+    {
+      "id": "atom_electrons_01",
+      "category": "physics_structure",
+      "prompt": "A clean scientific animation of an atom with a central nucleus and orbiting electrons, stable structure, no extra particles."
+    },
+    {
+      "id": "mitosis_01",
+      "category": "cell_biology_process",
+      "prompt": "A realistic educational video of mitosis, showing chromosomes aligning at the center of the cell before separating to opposite poles."
+    },
+    {
+      "id": "neuron_signal_01",
+      "category": "neuroscience_process",
+      "prompt": "A scientific visualization of a neuron, showing dendrites, soma, axon, and signal propagation along the axon."
+    },
+    {
+      "id": "protein_folding_01",
+      "category": "molecular_biology_process",
+      "prompt": "A clean animation of protein folding, showing a chain of amino acids folding into a compact stable 3D structure."
+    },
+    {
+      "id": "blood_cells_flow_01",
+      "category": "physiology_flow",
+      "prompt": "A scientific animation of blood cells flowing through a blood vessel, with red blood cells maintaining consistent shape and direction."
+    },
+    {
+      "id": "solar_system_01",
+      "category": "astronomy_structure",
+      "prompt": "A realistic visualization of a solar system model, with planets orbiting the sun in stable circular paths."
+    },
+    {
+      "id": "photosynthesis_01",
+      "category": "photosynthesis_process",
+      "prompt": "A clean educational video of photosynthesis inside a leaf cell, showing chloroplasts, light absorption, and chemical energy production."
+    }
+  ]
+}

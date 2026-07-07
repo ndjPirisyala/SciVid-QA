@@ -1,0 +1,41 @@
+{
+  "video_suite_name": "dev_10_two_conditions_seed42",
+  "prompt_suite": "dev_10_science_prompts",
+  "seed": 42,
+  "conditions": [
+    {
+      "condition_id": "directT2V",
+      "description": "Direct text-to-video generation.",
+      "model_name": "Wan2.2-1.5_14B_t2v",
+      "videos": [
+        {"prompt_id": "water_molecule_01", "video_path": "outputs/videos/directT2V/Wan2.2-1.5-14B/prompt_1_seed_42.mp4"},
+        {"prompt_id": "dna_double_helix_01", "video_path": "outputs/videos/directT2V/Wan2.2-1.5-14B/prompt_2_seed_42.mp4"},
+        {"prompt_id": "cell_membrane_01", "video_path": "outputs/videos/directT2V/Wan2.2-1.5-14B/prompt_3_seed_42.mp4"},
+        {"prompt_id": "atom_electrons_01", "video_path": "outputs/videos/directT2V/Wan2.2-1.5-14B/prompt_4_seed_42.mp4"},
+        {"prompt_id": "mitosis_01", "video_path": "outputs/videos/directT2V/Wan2.2-1.5-14B/prompt_5_seed_42.mp4"},
+        {"prompt_id": "neuron_signal_01", "video_path": "outputs/videos/directT2V/Wan2.2-1.5-14B/prompt_6_seed_42.mp4"},
+        {"prompt_id": "protein_folding_01", "video_path": "outputs/videos/directT2V/Wan2.2-1.5-14B/prompt_7_seed_42.mp4"},
+        {"prompt_id": "blood_cells_flow_01", "video_path": "outputs/videos/directT2V/Wan2.2-1.5-14B/prompt_8_seed_42.mp4"},
+        {"prompt_id": "solar_system_01", "video_path": "outputs/videos/directT2V/Wan2.2-1.5-14B/prompt_9_seed_42.mp4"},
+        {"prompt_id": "photosynthesis_01", "video_path": "outputs/videos/directT2V/Wan2.2-1.5-14B/prompt_10_seed_42.mp4"}
+      ]
+    },
+    {
+      "condition_id": "interpolated",
+      "description": "First-last keyframe interpolation using generated first and last frames.",
+      "model_name": "OpenAIGPT-Wan2.2-FLF",
+      "videos": [
+        {"prompt_id": "water_molecule_01", "video_path": "outputs/videos/interpolated/OpenAIGPT-Wan2.2-FLF/prompt_1_seed_42.mp4"},
+        {"prompt_id": "dna_double_helix_01", "video_path": "outputs/videos/interpolated/OpenAIGPT-Wan2.2-FLF/prompt_2_seed_42.mp4"},
+        {"prompt_id": "cell_membrane_01", "video_path": "outputs/videos/interpolated/OpenAIGPT-Wan2.2-FLF/prompt_3_seed_42.mp4"},
+        {"prompt_id": "atom_electrons_01", "video_path": "outputs/videos/interpolated/OpenAIGPT-Wan2.2-FLF/prompt_4_seed_42.mp4"},
+        {"prompt_id": "mitosis_01", "video_path": "outputs/videos/interpolated/OpenAIGPT-Wan2.2-FLF/prompt_5_seed_42.mp4"},
+        {"prompt_id": "neuron_signal_01", "video_path": "outputs/videos/interpolated/OpenAIGPT-Wan2.2-FLF/prompt_6_seed_42.mp4"},
+        {"prompt_id": "protein_folding_01", "video_path": "outputs/videos/interpolated/OpenAIGPT-Wan2.2-FLF/prompt_7_seed_42.mp4"},
+        {"prompt_id": "blood_cells_flow_01", "video_path": "outputs/videos/interpolated/OpenAIGPT-Wan2.2-FLF/prompt_8_seed_42.mp4"},
+        {"prompt_id": "solar_system_01", "video_path": "outputs/videos/interpolated/OpenAIGPT-Wan2.2-FLF/prompt_9_seed_42.mp4"},
+        {"prompt_id": "photosynthesis_01", "video_path": "outputs/videos/interpolated/OpenAIGPT-Wan2.2-FLF/prompt_10_seed_42.mp4"}
+      ]
+    }
+  ]
+}
